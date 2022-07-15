@@ -28,6 +28,6 @@ After the packages have been installed, you can run your dev environemnt via the
   npm run dev
 ```
 
-This will serve your app on `http://localhost:5173`.
+This will serve your app on [http://localhost:5173](http://localhost:5173).
 
 You should also be free to use it via yarn, but the reliability of the app is up to you.
