@@ -1,3 +1,6 @@
+/**
+ * @typedef {import('eslint').Linter.Config} ESLintConfig
+ */
 module.exports = {
   root: true,
   parser: '@typescript-eslint/parser',
